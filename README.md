@@ -1,3 +1,5 @@
 # Knowit Julekalender 2019 :santa:
 
-https://julekalender.knowit.no
+These are my solutions to problems from 
+
+https://julekalender.knowit.no (Norwegian)
