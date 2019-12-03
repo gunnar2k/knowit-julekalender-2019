@@ -1,5 +1,3 @@
-# Post after 6 AM on dec 3rd
-
 defmodule Day2 do
   def solve(_, solution \\ 0)
   def solve([], solution), do: solution
