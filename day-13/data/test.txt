@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "x": 0,
+            "y": 0,
+            "nord": true,
+            "vest": true,
+            "syd": false,
+            "aust": true
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "nord": true,
+            "vest": true,
+            "syd": false,
+            "aust": false
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "nord": true,
+            "vest": false,
+            "syd": false,
+            "aust": true
+        }
+    ],
+    [
+        {
+            "x": 0,
+            "y": 1,
+            "nord": false,
+            "vest": true,
+            "syd": false,
+            "aust": false
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "nord": false,
+            "vest": false,
+            "syd": true,
+            "aust": true
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "nord": false,
+            "vest": true,
+            "syd": false,
+            "aust": true
+        }
+    ],
+    [
+        {
+            "x": 0,
+            "y": 2,
+            "nord": false,
+            "vest": true,
+            "syd": true,
+            "aust": false
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "nord": true,
+            "vest": false,
+            "syd": true,
+            "aust": true
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "nord": false,
+            "vest": true,
+            "syd": true,
+            "aust": true
+        }
+    ]
+]
